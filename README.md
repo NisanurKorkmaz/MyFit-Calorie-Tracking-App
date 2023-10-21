@@ -8,6 +8,7 @@
 ## :gear: Technologies
 - [Swift](https://developer.apple.com/swift/)
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+- [Firebase](https://github.com/firebase/firebase-ios-sdk)
 
 
 ## :camera_flash: Screenshots
