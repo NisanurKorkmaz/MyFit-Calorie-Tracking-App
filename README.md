@@ -16,7 +16,8 @@
 
 | Login Page | Sign Up Page |
 | --- |
-| <img width="334" alt=![IMG_2685](https://github.com/NisanurKorkmaz/MyFit-Calorie-Tracking-App/assets/80275552/e0556d25-a64a-41cf-b158-3decfad3c2dd)> |![IMG_2686](https://github.com/NisanurKorkmaz/MyFit-Calorie-Tracking-App/assets/80275552/91f46560-84c2-450b-b45a-4bb48be3bacf)
+| <img width="329" alt="Capture d’écran 2023-10-21 à 14 33 06" src="https://github.com/NisanurKorkmaz/MyFit-Calorie-Tracking-App/assets/80275552/6d047203-21e1-44bf-9d48-131e32c23058"> |
+
  |
 
 | Home Page|
