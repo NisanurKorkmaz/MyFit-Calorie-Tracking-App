@@ -22,3 +22,8 @@ The purpose of this application is to assist users in calculating the calorie in
 | Dashboard| Exercices |
 | --- | --- |
 |<img width="330" alt="Capture d’écran 2023-10-22 à 09 02 49" src="https://github.com/NisanurKorkmaz/MyFit-Calorie-Tracking-App/assets/80275552/b5bc975f-119e-4dc9-a57b-5084693b4597">|<img width="328" alt="Capture d’écran 2023-10-22 à 09 03 10" src="https://github.com/NisanurKorkmaz/MyFit-Calorie-Tracking-App/assets/80275552/7ae34bd4-7664-4315-b47e-92ae86f80b24">|
+
+| Search Page| Settings |
+| --- | --- |
+|<img width="328" alt="Capture d’écran 2023-10-22 à 09 05 24" src="https://github.com/NisanurKorkmaz/MyFit-Calorie-Tracking-App/assets/80275552/347390f5-b5f1-4834-a478-cfdb1b5364dd">|<img width="328" alt="Capture d’écran 2023-10-22 à 09 05 52" src="https://github.com/NisanurKorkmaz/MyFit-Calorie-Tracking-App/assets/80275552/e36ec855-aff0-4ee5-93ef-c3fea0c9a331">|
+
