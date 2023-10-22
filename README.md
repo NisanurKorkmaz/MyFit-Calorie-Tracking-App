@@ -2,7 +2,7 @@
 
 ## :calling: About
 The purpose of this application is to assist users in calculating the calorie intake of the food they consume throughout the day and tracking the effects of their exercise activities. This user-friendly mobile application provides users with the necessary data to maintain a healthy lifestyle and achieve their personal fitness goals, there by helping them reach their health objectives.
-
+The MyFit calorie tracking mobile application is designed to enable users to track the calorie calculations of the foods they consume and monitor the effects of their physical exercise. To accomplish this, users are provided with a vast database of food items and exercise routines. After viewing the nutritional values of the foods they've consumed throughout the day, users can add them to their own menu list as desired. Additionally, they can observe their list of completed or planned activities and update their daily physical activity log. After inputting all the data, the user can view their daily calorie calculations on the main screen and make changes to the list if they wish.
 ## :gear: Technologies
 - [Swift](https://developer.apple.com/swift/)
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
