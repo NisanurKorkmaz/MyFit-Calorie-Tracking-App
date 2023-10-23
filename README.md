@@ -7,6 +7,7 @@ The MyFit calorie tracking mobile application is designed to enable users to tra
 - [Swift](https://developer.apple.com/swift/)
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 - [Firebase](https://github.com/firebase/firebase-ios-sdk)
+- [Nutrition API](https://api-ninjas.com/api/nutrition)
 
 
 ## :camera_flash: Screenshots
