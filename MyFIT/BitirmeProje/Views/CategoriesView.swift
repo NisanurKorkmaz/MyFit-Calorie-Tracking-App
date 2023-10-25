@@ -22,7 +22,6 @@ struct CategoriesView: View {
                                     Text(l)
                                         .font(.headline)
                                         .foregroundColor(.white)
-                                    //                                .shadow(color: .black, radius: 3, x : 0, y : 0)
                                         .frame(maxWidth: 136)
                                         .padding()
                                 }
